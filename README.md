@@ -1,6 +1,6 @@
 # 💫 About Me:
-SUTD Undergraduate pursuing Computer Science & Design with an interest in Artificial Intelligence. 
-Passionate about building production-ready AI systems. 
+SUTD Undergraduate pursuing Computer Science & Design with an interest in Artificial Intelligence. <br>
+Passionate about building production-ready AI systems. <br>
 Seeking opportunities to contribute to real-world AI products while deepening expertise in machine learning and software engineering.<br>
 
 
